@@ -1,0 +1,8 @@
+[{
+  "modid": "fpsmeter",
+  "name": "FpsMeter",
+  "description": "Mostra FPS atual, media, media total e 1% low no canto da tela.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["Claude"]
+}]
